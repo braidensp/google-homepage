@@ -7,7 +7,7 @@
 }
 
 #navright {
-  text-align: right;
+  float: right;
 }
 
 #navbar a:hover {
@@ -15,5 +15,12 @@
 }
 
 #centerContent {
+  padding: 3em;
+}
 
+.appDrawer {
+  background-image: url('images/GoogleAppsIcon.png');
+  background-size: 528px 68px;
+  height: 30px;
+  width: 30px;
 }
